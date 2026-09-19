@@ -31,6 +31,7 @@ VDML (Value Delivery Modeling Language), BMM (Business Motivation Model), REA on
 
 ## 📁 What's in this repo
 - `SABA_Inc_Report.pdf` — full project report
+- `Report_Template.pdf` — the blank assignment template provided by the course, included for context on what was assigned
 - `mmorpg_case.docx` — original assignment brief
 - `vdml_diagram.drawio` — editable Value Delivery Modeling diagram
 - `goal_model.drawio` / `goal_model.docx` — goal model source files
